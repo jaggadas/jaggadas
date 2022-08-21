@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaggadas
+- 👋 Hi, I’m Jaya Karthi
 - 👀 I’m interested in App Development, Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Flutter Projects
